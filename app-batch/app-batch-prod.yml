@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: app-batch
+
+greeting: hello-app-batch
+
+
+
