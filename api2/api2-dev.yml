@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: api2
+
+greeting: api2-dev-greeting
+
+

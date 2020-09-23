@@ -1,7 +1,0 @@
-spring:
-    application:
-        name: app-api
-
-greeting: hello-app-api
-
-

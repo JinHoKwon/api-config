@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: api3
+
+greeting: api3-prod-greeting
+
+
